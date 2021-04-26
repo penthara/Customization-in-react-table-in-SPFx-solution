@@ -1,4 +1,4 @@
-# Redux Implmentation In SPFx
+# Customization in react-table In SPFx
 <br/>
 This Repo contains code on how to customize react-table in SPFx solution.
 <br />
